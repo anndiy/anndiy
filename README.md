@@ -5,6 +5,7 @@ Age: 18 and half _(puffs chest)_ <br/>
 - `Scratch` as 7yo. (Is this even programming?)
 - completed basic `HTML, CSS and JS` courses from Sololearn and some at 14yo.
 - Learnt a handful stuff of `p5js` from **Whitehat Jr.** at 14ish age. (Yup, they weren't a completely scam company)
+- Some `PhaserJS` and random coding. _(check [old profile repos](https://github.com/unsortedAndy23?tab=repositories) for those random canvas games)_
 - 15yo, nolifer discord mod; started learning and building bots with `discord.js`, a speck of `expressjs`, and large cup of `mongoDB` and `mongoose`, thanks `replit`.
 - 16-18; nothing; literally [NOTHING](https://r.mtdv.me/blog/posts/NOTHINGproject) _(Maybe a little vibe-coding ✨)_
 - 18yo; refreshed HTML, learning responsive CSS + tailwind, learning React.
@@ -23,3 +24,5 @@ Age: 18 and half _(puffs chest)_ <br/>
 
 ---
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+> PS. Lost access to old github profile ([@unsortedAndy23](https://github.com/unsortedAndy23)), email and connected applications.
