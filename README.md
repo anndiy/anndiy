@@ -37,11 +37,12 @@ Participating in real projects and working with other developers.
 He/Him
 
 ⚡ Fun fact  
-I'm secretly learning sales… (oops!) 😄
+I know how to center a div
 
 ---
 
 ![](https://komarev.com/ghpvc/?username=anndiy&color=blueviolet&style=plastic)
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 > PS. Lost access to old github profile ([@unsortedAndy23](https://github.com/unsortedAndy23)), email and connected applications.
