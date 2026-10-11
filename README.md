@@ -1,11 +1,11 @@
 # 💫 Howdy, I am Andy:
-Age: 18 and half _(puffs chest)_ <br/>
+Age: 19 _(puffs chest)_ <br/>
 
 
 
 ## 🌐 Socials:
 [![Linktree](https://img.shields.io/badge/LinkTree-43e660?style=plastic&logo=linktree&logoColor=white)](https://linktr.ee/anndiy)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n.d.y_37) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anandng) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@anandnaikgaonkar25) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/anand_ng) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32618233) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anandnaikgaonkar25@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/own.sue) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anandng) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@anandnaikgaonkar25) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/anand_ng) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32618233) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anandnaikgaonkar25@gmail.com) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=anndiy&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
@@ -19,7 +19,7 @@ Age: 18 and half _(puffs chest)_ <br/>
 ## Other Common Github Profile Sections
 
 👩‍💻 **I'm currently working on**
-Basic REST APIs and responsive personal websites.
+Solving real-world problem with simple tools.
 
 🧠 **I'm currently learning**
 React.js and modern frontend development.
